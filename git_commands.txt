@@ -24,6 +24,9 @@ clear
 git remote -v
 git push origin master
 clear
-
+cd
+ls
+mkdir
+rm -rf
 
 this is some new changes
